@@ -28,6 +28,8 @@ namespace МИАПО
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Привет мир!!!");
+           messageBox.Show("система готова к работе");
+           messageBox.Show("Нажмите на экран для начала работы");
         }
     }
 }
